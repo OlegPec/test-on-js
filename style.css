@@ -1,0 +1,25 @@
+#popup{
+    display:none;
+    position: fixed;
+    top: 2em;
+    left: 40%;
+    width: 20%;
+    /*height:20%;*/
+    box-shadow: 0 0 100px rgba(0,0,0,0.5);
+    text-align:center;
+    padding:1em;
+    border-radius: 1em;
+}
+.table_list{
+    color:black;
+}
+.list-group{
+    cursor: pointer;
+    /*width: 500px;*/
+}
+input{
+	margin-bottom: 10px !important;
+}
+#student td{
+ padding-left: 15px;
+}
